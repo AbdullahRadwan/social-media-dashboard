@@ -30,10 +30,7 @@ Users should be able to:
 
 ![](./design/desktop-preview.jpg)
 
-### Links
 
-- Solution URL: [Github Repo](https://github.com/pawelpikus/social-media-dashboard-with-theme-switcher)
-- Live Site URL: [Github Pages](https://pawelpikus.github.io/social-media-dashboard-with-theme-switcher/)
 
 ## My process
 
