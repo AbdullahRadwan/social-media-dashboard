@@ -1,21 +1,3 @@
-# Frontend Mentor - Social media dashboard with theme switcher solution
-
-This is a solution to the [Social media dashboard with theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 ### The challenge
@@ -26,9 +8,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Toggle color theme to their preference
 
-### Screenshot
-
-![](./design/desktop-preview.jpg)
 
 
 
@@ -38,9 +17,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
-- Mobile-first workflow
 - JS
 
 ### What I learned
@@ -103,14 +80,3 @@ And how about the gradient border? I didn't realise there is no possibility to d
 ```
 
 
-### Continued development
-
-Now it is time to incorporate more JS in my sites!
-
-## Author
-
-- Frontend Mentor - [@pawelpikus](https://www.frontendmentor.io/profile/pawelpikus)
-
-## Acknowledgments
-
-Thank you Kevin Powell for an awsome Scrimba Bootcamp on Responsive Web Design! And frontendmentor.io for great challenges.
